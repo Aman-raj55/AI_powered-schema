@@ -1,0 +1,8 @@
+{
+    "sales": {
+        "columns": ["order_id", "customer_id", "total_amount", "date"]
+    },
+    "customers": {
+        "columns": ["customer_id", "name", "email"]
+    }
+}
